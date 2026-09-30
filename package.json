@@ -1,6 +1,6 @@
 {
   "name": "persistnetworkredirects-chrome-extension",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Frontend SPA em React 18 & Vite para PersistNetworkRedirects Chrome Extension",
   "type": "module",
   "scripts": {
