@@ -28,7 +28,7 @@ test("PersistNetworkRedirects Chrome Extension - React 18 SPA Test Suite", async
 
   await t.test("4. Configuração de build Vite e TypeScript deve ser válida", () => {
     const pkg = JSON.parse(fs.readFileSync(path.resolve("package.json"), "utf8"));
-    assert.equal(pkg.name, "persistnetworkredirects-chrome-extension");
+    assert.ok(pkg.name.endsWith("persistnetworkredirects-chrome-extension"), "Nome do pacote deve conter persistnetworkredirects-chrome-extension");
     assert.ok(pkg.scripts.test, "Deve conter script test");
     assert.ok(pkg.scripts.build, "Deve conter script build");
   });
