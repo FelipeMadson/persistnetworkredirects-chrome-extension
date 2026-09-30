@@ -1,0 +1,46 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Persistnetworkredirects Chrome Extension SBOM",
+  "documentNamespace": "https://github.com/FelipeMadson/persistnetworkredirects-chrome-extension/spdxdocs/persistnetworkredirects-chrome-extension-1.0.0-f337dd1f-0858-42e8-b46e-ba2967d8b19e",
+  "creationInfo": {
+    "created": "2026-09-30T15:18:13.805Z",
+    "creators": [
+      "Person: Felipe Madison (@FelipeMadson)",
+      "Organization: Autonomous Portfolio Engine — Staff Engineering Grade",
+      "Tool: SecurityCiGenerator-1.0.0"
+    ],
+    "licenseListVersion": "3.21"
+  },
+  "packages": [
+    {
+      "name": "persistnetworkredirects-chrome-extension",
+      "SPDXID": "SPDXRef-Package-persistnetworkredirects-chrome-extension",
+      "versionInfo": "1.0.0",
+      "packageFileName": "persistnetworkredirects-chrome-extension-1.0.0.tar.gz",
+      "packageSupplier": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "originator": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "downloadLocation": "git+https://github.com/FelipeMadson/persistnetworkredirects-chrome-extension.git@v1.0.0",
+      "filesAnalyzed": false,
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d0cdff22b96bdadf77444ef0682f03096283f749eeddeb22e1b4d9178515e3d"
+        }
+      ],
+      "homepage": "https://github.com/FelipeMadson/persistnetworkredirects-chrome-extension",
+      "concludedLicense": "MIT",
+      "declaredLicense": "MIT",
+      "copyrightText": "Copyright (c) 2026 Felipe Madison (@FelipeMadson)",
+      "description": "Enterprise-grade production release for Persistnetworkredirects Chrome Extension, engineered by Felipe Madison."
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-persistnetworkredirects-chrome-extension",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}
