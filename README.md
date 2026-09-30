@@ -53,7 +53,7 @@ Distribuído sob a licença MIT. Criado por **Felipe Madison**.
 
 ## 🎮 Live Interactive Playground (No Backend Required)
 
-Experimente o simulador em tempo real executando 100% no seu navegador com WebCrypto, Token Bucket e Write-Ahead Logging:
+Experimente o simulador de extensão do Google Chrome com interceptação de rede da Omnibox e regras declarativas em tempo real:
 👉 **[Acessar Live Playground do Persistnetworkredirects Chrome Extension](https://felipemadson.github.io/persistnetworkredirects-chrome-extension/)**
 
 ## 🖥️ Demonstração em Terminal Vetorial (Execução & Benchmarks)

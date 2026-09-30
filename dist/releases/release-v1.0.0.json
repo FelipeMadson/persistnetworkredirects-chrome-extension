@@ -2,9 +2,9 @@
   "slug": "persistnetworkredirects-chrome-extension",
   "version": "v1.0.0",
   "archiveFilename": "persistnetworkredirects-chrome-extension-v1.0.0.tar.gz",
-  "archiveSizeBytes": 30296,
-  "sha256": "aa7e881fac25c39ffece7512769a833c1d97590c2b11c8eded9aa70152d16919",
+  "archiveSizeBytes": 30313,
+  "sha256": "888295eeddb4f78b4037fe414fd2dc126b12275833c451431bdf78a415592035",
   "filesIncluded": 45,
-  "createdAt": "2026-09-30T15:52:42.778Z",
+  "createdAt": "2026-09-30T16:16:27.675Z",
   "author": "Felipe Madison (@FelipeMadson)"
 }
