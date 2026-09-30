@@ -51,6 +51,14 @@ Distribuído sob a licença MIT. Criado por **Felipe Madison**.
 
 ---
 
+## 📐 Arquitetura do Sistema & Fluxo de Dados
+
+<p align="center">
+  <img src="docs/assets/architecture.svg" alt="Arquitetura & Fluxo de Dados - Persistnetworkredirects Chrome Extension" width="920" />
+</p>
+
+---
+
 ## 🎮 Live Interactive Playground (No Backend Required)
 
 Experimente o simulador de extensão do Google Chrome com interceptação de rede da Omnibox e regras declarativas em tempo real:
